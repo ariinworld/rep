@@ -1,5 +1,5 @@
 #include "std.h"
-
+// commentari study progect
 int main ()
 { int a, b;
 printf ("input a и b");
